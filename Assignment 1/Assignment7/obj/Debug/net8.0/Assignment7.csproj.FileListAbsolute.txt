@@ -1,0 +1,14 @@
+/Users/kiankhatibi/Desktop/Assignment 1/Assignment7/bin/Debug/net8.0/Assignment7
+/Users/kiankhatibi/Desktop/Assignment 1/Assignment7/bin/Debug/net8.0/Assignment7.deps.json
+/Users/kiankhatibi/Desktop/Assignment 1/Assignment7/bin/Debug/net8.0/Assignment7.runtimeconfig.json
+/Users/kiankhatibi/Desktop/Assignment 1/Assignment7/bin/Debug/net8.0/Assignment7.dll
+/Users/kiankhatibi/Desktop/Assignment 1/Assignment7/bin/Debug/net8.0/Assignment7.pdb
+/Users/kiankhatibi/Desktop/Assignment 1/Assignment7/obj/Debug/net8.0/Assignment7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kiankhatibi/Desktop/Assignment 1/Assignment7/obj/Debug/net8.0/Assignment7.AssemblyInfoInputs.cache
+/Users/kiankhatibi/Desktop/Assignment 1/Assignment7/obj/Debug/net8.0/Assignment7.AssemblyInfo.cs
+/Users/kiankhatibi/Desktop/Assignment 1/Assignment7/obj/Debug/net8.0/Assignment7.csproj.CoreCompileInputs.cache
+/Users/kiankhatibi/Desktop/Assignment 1/Assignment7/obj/Debug/net8.0/Assignment7.dll
+/Users/kiankhatibi/Desktop/Assignment 1/Assignment7/obj/Debug/net8.0/refint/Assignment7.dll
+/Users/kiankhatibi/Desktop/Assignment 1/Assignment7/obj/Debug/net8.0/Assignment7.pdb
+/Users/kiankhatibi/Desktop/Assignment 1/Assignment7/obj/Debug/net8.0/Assignment7.genruntimeconfig.cache
+/Users/kiankhatibi/Desktop/Assignment 1/Assignment7/obj/Debug/net8.0/ref/Assignment7.dll

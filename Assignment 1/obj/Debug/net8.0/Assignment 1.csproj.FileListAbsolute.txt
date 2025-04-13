@@ -1,0 +1,4 @@
+/Users/kiankhatibi/Desktop/Assignment 1/obj/Debug/net8.0/Assignment 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kiankhatibi/Desktop/Assignment 1/obj/Debug/net8.0/Assignment 1.AssemblyInfoInputs.cache
+/Users/kiankhatibi/Desktop/Assignment 1/obj/Debug/net8.0/Assignment 1.AssemblyInfo.cs
+/Users/kiankhatibi/Desktop/Assignment 1/obj/Debug/net8.0/Assignment 1.csproj.CoreCompileInputs.cache

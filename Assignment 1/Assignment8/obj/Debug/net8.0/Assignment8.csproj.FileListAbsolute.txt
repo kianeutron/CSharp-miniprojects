@@ -1,0 +1,14 @@
+/Users/kiankhatibi/Desktop/Assignment 1/Assignment8/bin/Debug/net8.0/Assignment8
+/Users/kiankhatibi/Desktop/Assignment 1/Assignment8/bin/Debug/net8.0/Assignment8.deps.json
+/Users/kiankhatibi/Desktop/Assignment 1/Assignment8/bin/Debug/net8.0/Assignment8.runtimeconfig.json
+/Users/kiankhatibi/Desktop/Assignment 1/Assignment8/bin/Debug/net8.0/Assignment8.dll
+/Users/kiankhatibi/Desktop/Assignment 1/Assignment8/bin/Debug/net8.0/Assignment8.pdb
+/Users/kiankhatibi/Desktop/Assignment 1/Assignment8/obj/Debug/net8.0/Assignment8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kiankhatibi/Desktop/Assignment 1/Assignment8/obj/Debug/net8.0/Assignment8.AssemblyInfoInputs.cache
+/Users/kiankhatibi/Desktop/Assignment 1/Assignment8/obj/Debug/net8.0/Assignment8.AssemblyInfo.cs
+/Users/kiankhatibi/Desktop/Assignment 1/Assignment8/obj/Debug/net8.0/Assignment8.csproj.CoreCompileInputs.cache
+/Users/kiankhatibi/Desktop/Assignment 1/Assignment8/obj/Debug/net8.0/Assignment8.dll
+/Users/kiankhatibi/Desktop/Assignment 1/Assignment8/obj/Debug/net8.0/refint/Assignment8.dll
+/Users/kiankhatibi/Desktop/Assignment 1/Assignment8/obj/Debug/net8.0/Assignment8.pdb
+/Users/kiankhatibi/Desktop/Assignment 1/Assignment8/obj/Debug/net8.0/Assignment8.genruntimeconfig.cache
+/Users/kiankhatibi/Desktop/Assignment 1/Assignment8/obj/Debug/net8.0/ref/Assignment8.dll
